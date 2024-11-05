@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-unit.output/SkipUnit/skipstone/buildSrc" name="buildSrc">
+                <projects>
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-unit.output/SkipUnit/skipstone/buildSrc" />
+                </projects>
+              </build>
+              <build path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone" name="skip.mapbox.demo">
+                <projects>
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone" />
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipFoundation" />
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipLib" />
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipMapbox" />
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipMapboxDemo" />
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipModel" />
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipUI" />
+                  <project path="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipUnit" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/opt/homebrew/opt/gradle/libexec" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SkipFoundation" />
+            <option value="$PROJECT_DIR$/SkipLib" />
+            <option value="$PROJECT_DIR$/SkipMapbox" />
+            <option value="$PROJECT_DIR$/SkipMapboxDemo" />
+            <option value="$PROJECT_DIR$/SkipModel" />
+            <option value="$PROJECT_DIR$/SkipUI" />
+            <option value="$PROJECT_DIR$/SkipUnit" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipFoundation" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipLib" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipMapbox" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipMapboxDemo" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipModel" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipUI" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-mapbox-demo.output/SkipMapboxDemo/skipstone/SkipUnit" />
+            <option value="$USER_HOME$/Library/Developer/Xcode/DerivedData/SkipMapboxDemo-bbykwnbipignvgcbsshqqphvuydu/SourcePackages/plugins/skip-unit.output/SkipUnit/skipstone/buildSrc" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

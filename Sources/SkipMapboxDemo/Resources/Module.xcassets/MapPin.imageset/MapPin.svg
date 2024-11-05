@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="93.132698mm"
+   height="114.30208mm"
+   viewBox="0 0 93.132698 114.30208"
+   version="1.1"
+   id="svg1458"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="MapPin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1460"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.61825196"
+     inkscape:cx="178.72972"
+     inkscape:cy="216.74011"
+     inkscape:window-width="1312"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="288"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1455" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.433653,-91.34896)">
+    <path
+       d="m 105.00032,91.34896 c -25.671639,0 -46.566667,20.89503 -46.566667,46.56314 0,26.97938 41.941747,65.04163 43.730337,66.6503 0.80891,0.72348 1.82865,1.08864 2.83601,1.08864 1.00736,0 2.0271,-0.36379 2.83602,-1.08864 1.78594,-1.60817 43.73033,-39.66986 43.73033,-66.6503 0,-25.66741 -20.89502,-46.56314 -46.56667,-46.56314 z m 0,104.29522 c -12.79772,-12.16272 -38.1,-39.89917 -38.1,-57.73561 0,-21.00545 17.090319,-38.096472 38.1,-38.096472 21.00968,0 38.1,17.090322 38.1,38.096472 0,17.83468 -25.30228,45.57183 -38.1,57.73561 z m 0,-78.89169 c -11.67624,0 -21.166667,9.49466 -21.166667,21.16666 0,11.67201 9.490427,21.16667 21.166667,21.16667 11.67624,0 21.16667,-9.49466 21.16667,-21.16667 0,-11.67059 -9.49043,-21.16666 -21.16667,-21.16666 z m 0,33.86666 c -7.001934,0 -12.700001,-5.7023 -12.700001,-12.7 0,-6.9977 5.698067,-12.7 12.700001,-12.7 7.00194,0 12.7,5.7023 12.7,12.7 0,6.9977 -5.69806,12.7 -12.7,12.7 z"
+       id="path1365"
+       style="stroke-width:0.352778" />
+  </g>
+</svg>
